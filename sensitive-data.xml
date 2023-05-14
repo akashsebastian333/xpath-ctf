@@ -1,0 +1,20 @@
+<users>
+    <user>
+        <username>Initcorp</username>
+        <password>lol#initcrew@admins</password>
+        <api-key>api-Initcorp-key</api-key>
+    </user>
+
+    <user>
+        <username>Initcorp2</username>
+        <password>lol#initcrew1@admins</password>
+        <api-key>api-Initcorp-key</api-key>
+    </user>
+
+    <user>
+        <username>Initcorp3</username>
+        <password>lol#initcrew2@admins</password>
+        <api-key>api-Initcorp-key</api-key>
+    </user>
+
+</users>
